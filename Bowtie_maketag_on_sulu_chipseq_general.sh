@@ -1,5 +1,6 @@
 #!/bin/sh
 set -ueo # Exit immediately if a command exits with a non-zero status.
+#Testing git. Tjena fan hur e leget va?
 #######################################################################
 #######################################################################
 ##
